@@ -1,40 +1,39 @@
-# مرحبًا 👋، أنا يوسف عبدالرحيم!
+# Hi there 👋, I'm Youssef AbdElrahim
 
-أنا مبتدئ في مجال البرمجة وأعمل على تعلم أساسياتها وإتقانها لأتمكن من بناء أشياء عظيمة.
-حاليًا، أتعمق في دراسة عالم **VB.NET** و إطار عمل **.NET** لإنشاء تطبيقات قوية وفعالة.
-كما أؤمن بقوة أن التعلم المستمر أساس النجاح والتميز وأنا متحمس لمشاركة تقدمي ومشاريعي هنا.
-
----
-
-### 💻 مهاراتي الأساسية
-* **لغات البرمجة:** VB.NET ...
-* **أطر العمل والتقنيات:** .NET Framework
-* **قواعد البيانات:** SQL Server
-* **الأدوات:** Visual Studio 2008 Express، GitHub
+An aspiring developer learning the fundamentals of programming to build real-world, useful applications.  
+Currently, I’m focusing on **VB.NET** with **.NET 8** to build powerful desktop applications using **Windows Forms**, with data management through **ADO.NET** and **LINQ**.
 
 ---
 
-### 🚀 ما أتعلمه الآن
-أركز حاليا بقوة على تقوية أساسيات **VB.NET** خاصة في النقاط التالية بالترتيب التالي:
-* **حل المشكلات:** لتطوير مهارات تحليلية قوية لمواجهة التحديات البرمجية بفعالية.
-* **تطوير واجهات المستخدم (UI):** لإنشاء تطبيقات سطح مكتب أنيقة وسهلة الاستخدام باستخدام Windows Forms.
-* **إدارة قواعد البيانات:** لبناء تطبيقات أكثر تعقيدًا تعتمد على قواعد البيانات باستخدام ADO.NET وLINQ.
-* **تعلم مفاهيم VB.NET المتقدمة:** لإتقان البرمجة الشيئية (OOP)، وهياكل البيانات، والخوارزميات.
+### 💻 Core Skills
+**Languages:** VB.NET · T-SQL  
+**Frameworks & Technologies:** .NET · Windows Forms · ADO.NET · LINQ · OOP  
+**Databases:** SQL Server  
+**Tools:** Visual Studio · Git · GitHub
 
 ---
 
-### 🌱 أهدافي وخطواتي القادمة
-بعد الإنتهاء من إتقان ما أتعلمه الآن سأبدأ بتطبيقه من خلال قائمة أهدافي المستقبلية هذه:
-* **الهدف 1:** المساهمة في مشروع مفتوح المصدر للتعلم من المطورين ذوي الخبرة لتقوية مهارات حل المشكلات.
-* **الهدف 2:** بناء برنامج متكامل باستخدام VB.NET وSQL Server لإدارة نظام إدارة المخزون والمبيعات.
-* **الهدف 3:** البدء باستكشاف لغة C# وإطار عمل .NET MAUI لبناء مشروع متكامل يعمل على سطح المكتب والهواتف المحمولة.
+### 🚀 What I’m Learning Now
+I’m currently working on strengthening my **VB.NET** foundation, focusing on the following areas in order:
+* **Problem Solving:** Building strong analytical skills to effectively tackle programming challenges.  
+* **User Interface (UI) Development:** Creating elegant and user-friendly desktop applications using Windows Forms.  
+* **Database Management:** Developing more complex database-driven applications with ADO.NET and LINQ.  
+* **Advanced VB.NET Concepts:** Mastering OOP, data structures, and algorithms.
 
 ---
 
-### 📫 كيف تتواصل معي:
-* **البريد الإلكتروني:** youssefrahimofficial@gmail.com
-* **LinkedIn:** www.linkedin.com/in/usrahimofficial
+### 🌱 Goals & Next Steps
+Once I’ve mastered the above, I plan to apply my knowledge through these future goals:
+* **Goal 1:** Contribute to an open-source project to improve problem-solving skills and learn from experienced developers.  
+* **Goal 2:** Build a complete system using **VB.NET** and **SQL Server** for inventory and sales management.  
+* **Goal 3:** Begin exploring **C#** and the **.NET MAUI** framework to build a cross-platform project.
 
-أنا منفتح دائمًا على التواصل والتعاون الجدي. لنبني شيئًا مذهلاً معًا!
+---
+
+## 📫 Contact
+- Email: [youssefrahimofficial@gmail.com](mailto:youssefrahimofficial@gmail.com)  
+- LinkedIn: [linkedin.com/in/usrahimofficial](https://www.linkedin.com/in/usrahimofficial)  
+
+I’m always open to serious collaboration and networking. Let’s build something amazing together!
 
 ---
